@@ -1,0 +1,15 @@
+{
+  "name": "dpd-excel",
+  "version": "0.0.0",
+  "description": "integrate Excel export into deployd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Ricky Ng-Adam <rngadam@letsface.com>",
+  "license": "Proprietary",
+  "dependencies": {
+    "excel-export": "~0.2.1"
+  }
+}
