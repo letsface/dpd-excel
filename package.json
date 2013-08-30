@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "",
+  "repository": "git@github.com:letsface/dpd-excel.git",
   "author": "Ricky Ng-Adam <rngadam@letsface.com>",
   "license": "Proprietary",
   "dependencies": {
