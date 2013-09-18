@@ -4,12 +4,16 @@
   "description": "integrate Excel export into deployd",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node_modules/mocha/bin/mocha -R nyan tests/*-test.js"
   },
   "repository": "git@github.com:letsface/dpd-excel.git",
   "author": "Ricky Ng-Adam <rngadam@letsface.com>",
   "license": "Proprietary",
   "dependencies": {
-    "excel-export": "~0.2.1"
+    "excel-export": "~0.2.1",
+    "xlsx": "~0.2.7-d"
+  },
+  "devDependencies": {
+    "mocha": "~1.13.0"
   }
 }
