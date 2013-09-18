@@ -1,6 +1,6 @@
 {
   "name": "dpd-excel",
-  "version": "0.0.3",
+  "version": "0.3.0",
   "description": "integrate Excel export into deployd",
   "main": "index.js",
   "scripts": {

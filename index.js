@@ -6,6 +6,9 @@ var exporter = require('./exporter.js');
 
 var util = require('util');
 
+var pkg = require('./package.json');
+console.log('name: ' + pkg.name + ' version: ' + pkg.version);
+
 function ExcelResource(name, options) {
   Resource.apply(this, arguments);
 
