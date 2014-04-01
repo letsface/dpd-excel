@@ -8,7 +8,7 @@
   },
   "repository": "git@github.com:letsface/dpd-excel.git",
   "author": "Ricky Ng-Adam <rngadam@letsface.com>",
-  "license": "Proprietary",
+  "license": "MIT",
   "dependencies": {
     "excel-export": "~0.2.1",
     "xlsx": "~0.2.7-d"
